@@ -1,6 +1,7 @@
 # Ignore app executable
 build/bin/3dmr
-
+build/bin/plyr
+build/bin/objr
 # Prerequisites
 *.d
 
